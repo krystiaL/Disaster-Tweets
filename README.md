@@ -2,4 +2,6 @@
 *Kaggle Competition*
 
 ### Binary Classification Task 
-- Predicting whether a given tweet is about a real disaster or not. 
+- Predicting whether a given tweet is about a real disaster or not.
+
+
